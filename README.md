@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vlima-wll
 - 👀 I’m interested in engenharia analitica e dados
-- 🌱 I’m currently learning python e story telling
+- 🌱 I’m currently learning python e AWS Global Infrastructure
 - 💞️ I’m looking to collaborate on .Martech
 - 📫 How to reach me valmir.lima@willbank.com.br
 - 😄 Pronouns: eledele
